@@ -39,7 +39,12 @@
   - 隐藏字符串指定位置--stringMask
   - 对数组对象排序--arraySortKey
 - 系统相关
-  - 
+  - 是否为PC端--isPC
+  - 是否为移动端--isMobile
+  - 是否为IOS--isIOS
+  - 是否为Android--isAndroid
+  - 获取当前浏览器类型--getBrowserType
+  - 获取当前APP类型--getAppType
 
 本项目是对方法的使用示例，详细说明
 
